@@ -1,0 +1,35 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/MR_MT_Solver/src/",
+          "/users/bmc01/documents/AAMAS 2024/code/mr_mt_solver/",
+          "/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/lib/usd/",
+          "/opt/homebrew/Cellar/tbb/2021.9.0/include/",
+          "/opt/local/libexec/tbb/include/",
+          "/opt/local/libexec/tbb/include/tbb/",
+          "/Users/bmc01/Documents/AAMAS 2024/Code/MR_MT_Solver/include/",
+          "/Users/bmc01/Documents/AAMAS 2024/Code/MR_MT_Solver/src/",
+          "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1",   // Additional path for macOS
+          "/Library/Developer/CommandLineTools/usr/include/c++/v1"   // Additional path for macOS
+               
+
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks",
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1",
+                "/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include",
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include",
+                "/Library/Developer/CommandLineTools/usr/include",
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
+            ],
+            "intelliSenseMode": "macos-clang-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

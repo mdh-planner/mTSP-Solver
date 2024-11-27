@@ -1,0 +1,4 @@
+Salesperson  	X            Y         Color  Velocity    sourceDepot
+     0        97078.4    56121.8       0 1      10            0
+     1          20920     110722       1        10            1
+     2        237.804     183109       0        10            2
